@@ -1,0 +1,4 @@
+El producto mas caro es Vuvuzela
+El valor total de la bodega es de $1900570
+El producto con mas ingresos es Arroz
+En el periodo de 10/2010, el total de ventas es de $4160
